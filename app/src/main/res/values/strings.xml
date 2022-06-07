@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UTS_10119269_OurNotes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buat_viewpager">buat viewpager</string>
+    <string name="tips_app">Tips App</string>
+    <string name="judul_catatan">Judul Catatan</string>
+    <string name="tanggal_buat">Tanggal Buat</string>
+    <string name="isi_catatan">Isi Catatan</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="gambar">GAMBAR</string>
+    <string name="zuhair_rasyid_wafi">Zuhair Rasyid Wafi</string>
+    <string name="_10119269_if7">10119269 - IF7</string>
+    <string name="zuhair_10119269_mahasiswa_unikom_ac_id">zuhair.10119269@mahasiswa.unikom.ac.id</string>
+    <string name="nama_saya_zuhair_rasyid_wafi_asal_saya_dari_cimahi_saya_merupakan_mahasiswa_informatika_unikom_angkatan_2019">Nama saya Zuhair Rasyid Wafi, asal saya dari Cimahi, saya merupakan Mahasiswa Informatika Unikom angkatan 2019.</string>
+</resources>
